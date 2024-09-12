@@ -17,11 +17,11 @@ This project includes Python scripts that demonstrate various programming tasks 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iimaiorov/qa_guru_python_10_6.git
+   git clone https://github.com/iimaiorov/theme-switching-user-filtering-functions.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd qa_guru_python_10_6
+   cd theme-switching-user-filtering-functions
    ```
 
 ## Usage
